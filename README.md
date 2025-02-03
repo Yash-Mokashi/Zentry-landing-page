@@ -19,7 +19,7 @@ A **responsive** and **animated landing page** for **Zentry**, the metagame, bui
 ## Live Demo
 
 You can view the live version of the landing page here:  
-[Zentry Landing Page - Live Demo](https://679f1d27f6d5d8410b94c684--idyllic-cupcake-029134.netlify.app/)
+https://zentryinspired.netlify.app/
 
 ## How to Run Locally
 
